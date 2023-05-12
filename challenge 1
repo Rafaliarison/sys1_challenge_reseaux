@@ -1,0 +1,5 @@
+FTP authentification
+
+-Telecharger et ouvrir le fichier avec wireshark
+-click droit et suivre le flux TCP
+-et on voit le mot de passe
