@@ -1,0 +1,6 @@
+Telnet authentification
+
+-telecharger le fichier ch2pcap
+-ouvrir le fichier avec wireshark
+-faire click droit sur un protocole TCP et suivre le flux
+-le mot de passe indique apres passeword
