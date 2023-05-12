@@ -1,0 +1,8 @@
+Bluetooth fichier inconnue
+
+-demarrer challenge et telecharger le fichier ch18.bin
+-ouvrir le ficher avec wireshark
+-on choisit le protocole HCI EVT
+-clicker sur l'option wireless et choisir equipement bluetooth
+-on traduit l'adresse mac et le modele du telephone en sha1
+-et le mot de passe apparait
