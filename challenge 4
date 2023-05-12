@@ -1,0 +1,7 @@
+Authentification twitter
+
+-telecharger le fichier ch3.pcap
+-ouvrir avec wireshark
+-click droit sur la ligne qui apparait et suivre le flux TCP
+-on copie la code base64 on le traduit le code 
+-et le mot de passe apparait
